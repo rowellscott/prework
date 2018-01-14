@@ -171,17 +171,12 @@ header .container{
   font-size: 2em;
 }
 
-
-
-
-
 #install{
   background: url("/Users/scottrowell/code/prework/lab-html-module-exercise-master/starter-code/images/forklift.svg")0 0 no-repeat;
   background-size: cover;
   height: 475px;
   color: white;
   position: relative;
-
 }
 
 #install h2{
@@ -197,7 +192,6 @@ header .container{
 #install p{
   width: 70%;
 }
-
 
 #install button{
   background-color:rgb(49, 68, 88);
@@ -229,8 +223,6 @@ header .container{
 
 .col-3{
   width: 33%;
-
-
 }
 
 #top p{
